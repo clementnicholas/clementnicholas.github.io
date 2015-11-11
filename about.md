@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi. My name's Nick. Thanks for joining me here. I'm currently a student in the Web Development bootcamp at Lighthouse Labs in Vancouver. This blog is designed for me to write about and investigate the advanced topics covered over my final weeks here.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I was born and raised in Houston, TX before moving to Nashville, TN for university. I studied there for 4 years at Vanderbilt University, majoring in economics and film studies. After school, I decided I'd like to stay and try my hand at songwriting. I did a lot of other stuff, too. Basically, your token millenial.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The idea of a dynamic environment of constantly creating, learning, and problem-solving with critical thinking drew me to the world of development. I've enjoyed it immensely as every day is full of new ideas, challenges, and technologies.
+
+I enjoy how cool the other side of the pillow is, hole-in-the-wall dive bars with karaoke, a good California Zin, most competitions (especially Houston sports and board games), the oxford comma, any and all things related to Mexican food, and the landing of a well-performed line in a song, film, or play.
+
+Thanks for joining me. I hope you find my very informal, mostly uneducated musings either entertaining, insightful, or both. Cheers.
