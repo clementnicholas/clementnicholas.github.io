@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post: The Beginning of The End @ Lighthouse"
-date:   2015-11-09 20:41:28 -0800
+date:   2015-11-09
 categories: jekyll update
 ---
 

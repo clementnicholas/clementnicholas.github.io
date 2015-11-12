@@ -1,7 +1,7 @@
 ---
 layout: post
 title: W7D2, Node, Express, and Meteor with some WebSockets
-date: 2015-11-10 20:38:28 -08000
+date: 2015-11-10
 categories: jekyll update
 ---
 Today, we covered some more Node.js and introduced some potential technologies to work with for our final projects. We also went over the use of Web Sockets and how they are kind of awesome in the way they work. 
