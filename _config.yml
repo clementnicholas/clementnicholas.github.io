@@ -8,8 +8,7 @@
 # Site settings
 title: I Learn So Much. And Still I Know Nothing.
 email: cnicholasjordan@gmail.com
-description: 
-Nick Jordan is a graduate of Vanderbilt University. After spending some years in Nashville as a songwriter/film crew monkey/restaurant worker/general hooligan, he attended the Lighthouse Labs Web Development Bootcamp in Vancouver, BC. He has since relocated to the Bay Area. Among other things, Nick enjoys new technologies, Houston sports, being outside, craft beverages and well written songs. He is a self-proclaimed queso connouisseur.
+description: Nick Jordan is a graduate of Vanderbilt University. After spending some years in Nashville as a songwriter/film crew monkey/restaurant worker/general hooligan, he attended the Lighthouse Labs Web Development Bootcamp in Vancouver, BC. He has since relocated to the Bay Area. Among other things, Nick enjoys new technologies, Houston sports, being outside, craft beverages and well written songs. He is a self-proclaimed queso connouisseur.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
