@@ -6,13 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Nick's Last Weeks At LighthouseLabs
+title: I Learn So Much. And Still I Know Nothing.
 email: cnicholasjordan@gmail.com
 description: 
-  This is a blog written by Nick Jordan. It will cover his last few weeks at Lighthouse Labs in 
-  Vancouver, BC as well as his subsequent learning and projects as he pursues a career as a junior
-  web developer. In addition to development, Nick enjoys all sports (especially Houston teams), craft 
-  beverages and well written songs.
+Nick Jordan is a graduate of Vanderbilt University. After spending some years in Nashville as a songwriter/film crew monkey/restaurant worker/general hooligan, he attended the Lighthouse Labs Web Development Bootcamp in Vancouver, BC. He has since relocated to the Bay Area. Among other things, Nick enjoys new technologies, Houston sports, being outside, craft beverages and well written songs. He is a self-proclaimed queso connouisseur.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
